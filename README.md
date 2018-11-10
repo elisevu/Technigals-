@@ -1,0 +1,2 @@
+# Technigals-
+financial management app 
