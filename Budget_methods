@@ -1,0 +1,11 @@
+public class Budget_Methods
+{
+    public static void main(String[] args){
+        double bills_percent = 0.0;
+        double groceries_percent = 0.0;
+        double clothing_percent = 0.0;
+        double other_percent = 0.0;
+     public static
+
+    }
+}
